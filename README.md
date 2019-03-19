@@ -23,8 +23,8 @@ The current repository was created to make available the stimuli and analysis co
 - stimuli_words: spoken words wav files (main experiment);
 - stimuli_noise: noise (scrambled sounds) wav files (main experiment);
 - stimuli_indices:
->> StimulusSubset_index: excel file with stimulus numbering, condition index and assignment to stimulus subsets (subject groups);
->> ClearSounds_index: excel file with behavioral recognition accuracy and inclusion/exclusion assignment for "clear sounds" condition.
+(a) StimulusSubset_index: excel file with stimulus numbering, condition index and assignment to stimulus subsets (subject groups);
+(b) ClearSounds_index: excel file with behavioral recognition accuracy and inclusion/exclusion assignment for "clear sounds" condition.
 
 
 *** INQUIRIES should be addressed to talli.unitn@gmail.com .
