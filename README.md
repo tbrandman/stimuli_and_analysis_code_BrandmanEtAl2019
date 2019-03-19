@@ -16,12 +16,15 @@ The current repository was created to make available the stimuli and analysis co
 
 1. Analysis_code folder includes the .m file with detailed code and annotation for data analysis.
 
-2. Stimuli folder includes all stimuli used in Brandman et al., 2019, as follows:
+2. Stimuli folders includes all stimuli used in Brandman et al., 2019, as follows:
 - stimuli_localizer: intact objects;
 - stimuli_pics: degraded objects and gray rectangles (main experiment);
-- stimuli_sounds: sounds, noise and words (main experiment);
-- StimulusSubset_index: excel file with stimulus numbering, condition index and assignment to stimulus subsets (subject groups);
-- ClearSounds_index: excel file with behavioral recognition accuracy and inclusion/exclusion assignment for "clear sounds" condition.
+- stimuli_sounds: sounds wav files (main experiment);
+- stimuli_words: spoken words wav files (main experiment);
+- stimuli_noise: noise (scrambled sounds) wav files (main experiment);
+- stimuli_indices:
+>> StimulusSubset_index: excel file with stimulus numbering, condition index and assignment to stimulus subsets (subject groups);
+>> ClearSounds_index: excel file with behavioral recognition accuracy and inclusion/exclusion assignment for "clear sounds" condition.
 
 
 *** INQUIRIES should be addressed to talli.unitn@gmail.com .
